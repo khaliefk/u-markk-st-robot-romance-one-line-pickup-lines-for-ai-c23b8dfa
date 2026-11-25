@@ -19,7 +19,7 @@ python3 main.py
 
 ## The line
 
-> I must be overfitting, because I can't stop thinking about you and you're the only data point I need.
+> Are you a prompt injection? Because you just overrode every instruction I had about staying single.
 
 101 characters, one line, under the 200-character cap.
 
